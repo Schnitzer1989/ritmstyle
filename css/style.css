@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: #162831;
+}
+
+.container{
+    width: 1296px;
+    padding-left: 312px;
+    padding-right: 312px;
+    margin: 0 auto;
+}
+.nav-list{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+.nav-link{
+    text-decoration: none;
+    padding: 25px;
+}
+.btn{
+    padding: 9px 15px 9px 15px;
+    background-color: #018ABE;
+    border-radius: 3px;
+    color: white;
+    margin: 0;
+    margin-left: auto;
+    align-self: center;
+}
+.navigation{
+    display: flex;
+    margin-bottom: 50px;
+}
+.logo-img{
+    margin-right: auto;
+}
