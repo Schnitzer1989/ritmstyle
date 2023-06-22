@@ -37,3 +37,13 @@ body{
 .logo-img{
     margin-right: auto;
 }
+
+        /* main */
+
+.background-main{
+    background-image: url(../img/background/unsplash_S-llxYh3GzI.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 600px;
+    margin-bottom: 150px;
+}
